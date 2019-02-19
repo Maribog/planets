@@ -1,4 +1,4 @@
-enda flere endringer
+﻿enda flere endringer
 march is red
 i want to go to march
 march is a planet
@@ -6,3 +6,4 @@ blablabla
 blablabbla2
 test
 A conflict might arise
+Åsmund er kul
